@@ -1,7 +1,7 @@
 Stepan Stepanovich Adraksin
 Father Akinfi
 Marya Dmitriyevna Akhrosimova
-Alexander I of Russia / Tsar Alexander I of Russia
+Alexander I of Russia / Tsar Alexander I of Russia / Alexander I / Emperor Alexander
 Elizabeth Alexeievna / Louise of Baden
 Yakov Alpatych
 Aleksey Arakcheyev / Count Arakcheyev 
@@ -18,19 +18,19 @@ Belliard
 Levin August / Count von Bennigsen / Count Bennigsen 
 Lieutenant Alphonse Karlovich Berg
 Louis Alexandre Berthier / Louis Alexandre Berthier
-Count Kirill Vladimirovich Bezukhov
-Pierre Bezukhov
+Count Kirill Vladimirovich Bezukhov / Count Bezukhov
+Pierre Bezukhov / Pierre / hero
 Bilibin
 Bitsky
 Maria Bogdanovna
 Bolkhovitinov
-Prince Andrei Nikolayevich Bolkonsky
+Prince Andrei Nikolayevich Bolkonski / Prince Andrew
 Princess Elisabeta Karlovna Bolkonskaya / Lisa
-Maria Bolkonsky / Princess Marya Bolkonskaya
-Prince Nikolay Andreevitch Bolkonsky
-Napoleon I of France / Napoléon Bonaparte
+Mary Bolkonski / Princess Mary Bolkonskaya / Mary Bolkonskaya
+Prince Nikolay Andreevitch Bolkonski / Prince Nicholas
+Napoleon I of France / Napoleon Bonaparte / Napoleon
 Vincent Bosse
-Mademoiselle Bourienne
+Mademoiselle Bourienne / Bourienne
 Jean-Baptiste Broussier / General Broussier 
 Captain Brozin
 Agrafena Ivanovna Byelova
@@ -93,7 +93,7 @@ Aline Kuragina
 Anatole Vassilitch Kuragin / Anatole Kuragin
 Hélène Kuragina
 Hippolyte Kuragin
-Vasili Sergeevich Kuragin
+Vasili Sergeevich Kuragin / Prince Vasili
 Mikhail Ilarionovich Kutuzov / General Kutuzov 
 Mavra Kuzminishna
 Louis Alexandre Andrault de Langeron / Count Langeron 
@@ -141,10 +141,10 @@ Captain Ramballe
 Jean Rapp / Count Jean Rapp 
 Prince Repnin
 Fyodor Rostopchin / Count Rostopchin 
-Count Ilya Rostov
-Countess Natalya Rostova
-Natasha Rostova
-Nikolai Rostov
+Count Ilya Rostov / Ilya Rostov / Count Rostov
+Countess Natalya Rostova / Countess Rostova
+Natasha Rostova / Natasha / heroine
+Nikolai Rostov / Nicholas Rostov
 Petya Rostov
 Vera Rostova
 Praskovya Savishna
@@ -156,7 +156,7 @@ Shcherbinin
 Pyotr Nikolaitch Shinshin
 Smolyaninov
 Sonya (War and Peace) / Sonya
-Speransky / Count Speransky 
+Speransky / Count Speransky / Speranski
 Stevens
 Stolypin
 Suhtelen
