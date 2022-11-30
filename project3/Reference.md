@@ -5,7 +5,7 @@
 1. TRAINING A CLASSIFIER -- PyTorch Documents
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
-2. How to Explore the GAN Latent Space When Generating Faces
+2. Generating Faces
 https://machinelearningmastery.com/how-to-interpolate-and-perform-vector-arithmetic-with-faces-using-a-generative-adversarial-network/
 
 3. Purpose of different layers in a Deep Learning Model
